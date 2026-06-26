@@ -1,3 +1,4 @@
 model,precision,recall,pr_auc
 RandomForest,1.0,0.8333333333333334,1.0
 LightGBM,1.0,1.0,1.0
+AdvancedCyclical,1.0,1.0,1.0
